@@ -2,7 +2,7 @@
 ## Introduction
 In this dataset, each user has the ability to post a rating and review for the products they purchased. Additionally, other users can evaluate the initial rating and review by expressing their trust or distrust.
 
-### 🔑 Objectives
+### Objectives
 The objectives of the analysis in this portfolio is to apply the knowledge that have been learned such as descriptive statistics, plotting, correlation and outliers detection.
 
 ### Data Description
@@ -23,6 +23,6 @@ The dataset is from several data sources, and we have merged all the data into a
     - explore the correlation between gender/helpfulness/category and ratings and visualize with graph/plot.
 4. Outliers detection
 
-## 🎯 Conclusion
+## Conclusion
 The dataset contains 20.000 data which in each row contain unique information from userId to user_city. After removing missing data and rows that do not have reviews, the number of data decreased to 19.916 data. Based on those numbers, I found 8.562 unique users, 19.459 unique reviews, 89 unique items, and 9 unique categories. Further, I calculated descriptive analytics of rating records and found the average rating was around 3,7. As per gender calculation, it was shown that men tend to give more reviews than women.
 Overall the observations of rating and other variables did not give the users much significant impact, since the results shown in the boxplot were constant and quite similar between variables.
