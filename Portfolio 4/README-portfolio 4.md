@@ -27,7 +27,7 @@ The objective of this analysis is to know the factors that contribute to the obe
 |MTRANS|Transportation used|Physical condition|
 |NObeyesdad|Obesity level|Other
 
-## Data Processing - describe in detail how the processing data and the tools / techniques we use
+## Data Processing
 1. Data Exploration
     - Import dataset and tools such as panda, seaborn, numpy, matplotlib.
     - Check if there is any outlier and missing value, but dataset already cleaned.
